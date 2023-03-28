@@ -1,0 +1,19 @@
+.form-control:focus, .form-select:focus{
+    border: .2vw solid black;
+    box-shadow: none;
+}
+
+input[type=radio]:checked{
+    background-color: black;
+    box-shadow: black;
+}
+
+.form-select option{
+    color: white;
+    background-color: white;
+}
+
+
+h3{
+    color: red;
+}
