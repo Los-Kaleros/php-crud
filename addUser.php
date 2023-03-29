@@ -38,11 +38,11 @@
                                 <div class="col-4">
                                     <label for="userGender" class="form-label">Gender<span>*</span></label>
                                         <div class="form-check">
-                                            <input class="form-check-input black-radio" type="radio" name="userGender" id="userGender" value="male" checked>
+                                            <input class="form-check-input black-radio border-dark" type="radio" name="userGender" id="userGender" value="male" checked>
                                             <label class="form-check-label" for="userGender">Male</label>
                                         </div>
                                         <div class="form-check">
-                                            <input class="form-check-input black-radio" type="radio" name="userGender" id="userGender" value="female">
+                                            <input class="form-check-input black-radio border-dark" type="radio" name="userGender" id="userGender" value="female">
                                             <label class="form-check-label" for="userGender">Female</label>
                                         </div>
                                 </div>
